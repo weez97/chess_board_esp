@@ -43,3 +43,6 @@ Verifica que las imágenes estén ubicadas correctamente para que no hayan probl
 
 ![example](/chess_example.PNG)
 <p align="center"> 8/2P4P/1p1B3r/2qn2N1/K6P/2RpbP2/4R1p1/3k4 </p>
+
+# Configuración de SFML
+SFML y sus librerias son necesarias para poder compilar este proyecto. En caso las configuraciones del proyecto se pierdan al clonar el repositorio, referirse a esta guía para restaurar las referencias y paths perdidos -> https://www.youtube.com/watch?v=YfMQyOw1zik
